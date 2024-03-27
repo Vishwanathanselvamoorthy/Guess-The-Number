@@ -79,3 +79,53 @@ main .right .label-highscore {
   margin: 30px 0px 30px 0px;
   font-size: 20px;
 }
+
+@media (min-width: 1024px) {
+  header h1 {
+    font-size: 3.5rem;
+    margin: 80px;
+  }
+  header p {
+    margin: 60px;
+  }
+  header div {
+    font-size: 80px;
+    margin-bottom: 50px;
+  }
+  header div p {
+    font-size: 50px;
+  }
+  main {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+  }
+  main .left {
+    flex: 1;
+    margin-right: 20px;
+    text-align: center;
+  }
+  main .left .guess {
+    padding: 30px;
+    font-size: 30px;
+  }
+  main .left .btn {
+    font-size: 30px;
+    padding: 15px;
+    margin: 20px 0;
+  }
+  main .right {
+    flex: 1;
+    text-align: center;
+  }
+  main .right .message {
+    font-size: 24px;
+    margin: 20px 0;
+  }
+  main .right .label-score,
+  main .right .label-highscore {
+    font-size: 24px;
+    margin: 50px 0;
+  }
+}
