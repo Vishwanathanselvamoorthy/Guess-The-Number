@@ -23,7 +23,7 @@ Retro Number Guesser is a simple web-based game where players have to guess a ra
 
 ![Screenshot 2024-03-27 165854](https://github.com/Vishwanathanselvamoorthy/Guess-The-Number/assets/147639866/05a5d222-87db-40c1-a28b-6d870a756a5f)
 
-#RetroGames #WebGames #GuessingGame #HTML5 #CSS3 #JavaScript #RetroGaming #WebDevelopment #GameDev #IndieDev #CodeNewbie #Programming #Nostalgia #ClassicGames
+
 
 
 
