@@ -40,7 +40,7 @@ function checkGuess() {
     resultMessage.textContent = 'You Got It Man 🔥';
     body.style.backgroundColor = 'Green';
     secretNumber.textContent = randomNumberGenerator;
-    secretNumber.style.width = '30rem';
+    // secretNumber.style.width = '30rem';
     if (scoreInNumber > highScoreInNumber) {
       highScoreInNumber = scoreInNumber;
       highScore.textContent = highScoreInNumber;
